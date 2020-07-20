@@ -1,6 +1,6 @@
 (defproject ytman "0.0.9" ; -SNAPSHOT
-  :description "Upload agent für YT"
-  :url "http://easyfix.local/"
+  :description "Upload meta generator for YTuploader"
+  :url "http://fixme.local/"
   :dependencies [;; Clojure
                  [org.clojure/clojure "1.10.1"]
                  ;; Server
