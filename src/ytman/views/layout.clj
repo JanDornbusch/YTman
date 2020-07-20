@@ -5,7 +5,7 @@
 (def version "0.0.1")
 
 (defn common
-  "Default layout to storysquid.com"
+  "Default layout"
   [page & body]
   (html5 {:lang "en-en"}
          [:head
