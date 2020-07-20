@@ -1,0 +1,27 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+page {
+  size: A4;
+}
+
+body {
+  width: 100%;
+  white-space: wrap;
+}
+
+table {
+  page-break-inside: auto;
+}
+
+th {
+  word-break: normal;
+  white-space: wrap;
+}
+
+.breakafter {
+  page-break-after: always;
+  break-after: page;
+}
